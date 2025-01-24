@@ -22,3 +22,7 @@ body{
 li:last-child{
     background-color: white;
 }
+
+h2{
+    float: left ;
+}
