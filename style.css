@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "OpenSans";
+    src: url(/fonts/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+@font-face {
+    font-family: "bebaneue";
+    src: url(/fonts/BebasNeue-Regular.ttf);
+}
+
+html{
+    font-family: "OpenSans", arial, sans-serif;
+}
+
+h1{
+    font-family: "bebaneue", arial, sans-serif;
+}
+
+header{
+    background-color: cadetblue;
+}
