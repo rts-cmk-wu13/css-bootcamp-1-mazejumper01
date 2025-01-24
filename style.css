@@ -11,6 +11,10 @@ html{
     font-family: "OpenSans", arial, sans-serif;
 }
 
+header{
+    margin-block-end: 10rem;
+}
+
 h1{
     font-family: "bebaneue", arial, sans-serif;
 }
@@ -27,6 +31,8 @@ article{
     float: left ;
     width: 45%;
 }
+
+
 
 
 div{
