@@ -23,6 +23,17 @@ li:last-child{
     background-color: white;
 }
 
-h2{
+article{
     float: left ;
+    width: 45%;
+}
+
+
+div{
+    float: right;
+    width: 45%;
+}
+
+div p{
+    color: deeppink;
 }
