@@ -15,6 +15,10 @@ h1{
     font-family: "bebaneue", arial, sans-serif;
 }
 
-header{
-    background-color: cadetblue;
+body{
+    background-color: cyan;
+}
+
+li:last-child{
+    background-color: white;
 }
